@@ -1,2 +1,2 @@
 # Image-Gallery
-<img src="Image Gallery/featured.jpg">
+<img src="image-gallery-master/featured.jpg">
